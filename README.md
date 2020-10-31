@@ -48,3 +48,5 @@ Burned or Hardcoded subtitle cannot be removed from output video later. To burn/
 ![](https://i.ibb.co/w4TcpC7/Burn-Sub.gif)
 
 Note: As Burning/hardcoding Subtitle requires re-encoding the video file, it will take some time depending on the video file size.
+
+Read about this in Bangla [here](https://fhshubho.netlify.app/blogs/b_4.html)
